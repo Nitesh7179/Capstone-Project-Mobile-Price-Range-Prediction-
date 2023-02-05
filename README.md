@@ -1,4 +1,8 @@
 # Mobile Price Range Prediction
+
+![image](https://user-images.githubusercontent.com/93392791/216827073-36679bef-00d5-4860-bd9b-466347a9db60.png)
+
+
 In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. The objective is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is.
 
 We will proceed with reading the data, and then perform data analysis. The practice of examining data using analytical or statistical methods in order to identify meaningful information is known as data analysis. After data analysis, we will find out the data distribution and data types. We will train 4 classification algorithms to predict the output. We will also compare the outputs. Let us get started with the project implementation.
